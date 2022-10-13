@@ -1,0 +1,21 @@
+.form-container {
+  width: 100%;
+  text-align: center;
+}
+.input-form {
+  padding: 10px;
+  border: none;
+  background: none;
+  outline: none;
+  margin-right: 5px;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+.button-form {
+  padding: 10px 6px 10px 6px;
+  border: none;
+  background: none;
+  border-radius: 5px;
+  color: wheat;
+  background-color: #d35661;
+}

@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background-image: url("./asset/sableStarWars.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
